@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_created">活动发布成功</string>
+    <string name="activity_deleted">活动已删除</string>
+    <string name="app_name">CampusHub</string>
+    <string name="available">可报名</string>
+    <string name="browse_activities">去浏览活动</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_registration">取消报名</string>
+    <string name="category">类别</string>
+    <string name="confirm">确认</string>
+    <string name="confirm_delete">确定删除此活动？</string>
+    <string name="create_activity">发布活动</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="date">日期</string>
+    <string name="description">描述</string>
+    <string name="detail">详情</string>
+    <string name="empty_activities">暂无活动</string>
+    <string name="empty_registrations">你还没有报名任何活动</string>
+    <string name="error_occurred">加载失败</string>
+    <string name="explore">发现活动</string>
+    <string name="favorites">收藏</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="full">已满</string>
+    <string name="home">首页</string>
+    <string name="input_required">此项为必填</string>
+    <string name="loading">加载中...</string>
+    <string name="location">地点</string>
+    <string name="my_activities">我的活动</string>
+    <string name="no_favorites">暂无收藏</string>
+    <string name="no_results">暂无活动</string>
+    <string name="organizer">组织者</string>
+    <string name="participants">参与人数</string>
+    <string name="register">立即报名</string>
+    <string name="registered">已报名</string>
+    <string name="registration_cancelled">已取消报名</string>
+    <string name="registration_success">报名成功</string>
+    <string name="retry">重试</string>
+    <string name="save">保存</string>
+    <string name="search_hint">搜索活动...</string>
+    <string name="settings">设置</string>
+    <string name="time">时间</string>
+    <style name="Theme.CampusHub" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
